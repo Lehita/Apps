@@ -2,7 +2,7 @@
 
 ### ABOUT
 
-#### This app predicts the risk level of lung cancer of the user. It takes 15 inputs and returns an output, stating the risk level; high, medium, or low.
+#### This app predicts the risk level of lung cancer in the user. It takes 15 inputs and returns an output, stating the risk level; high, medium, or low.
 
 ### TECHNOLOGY USED
 
