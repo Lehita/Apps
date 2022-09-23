@@ -6,7 +6,7 @@
 
 ### TECHNOLOGY USED
 
-#### The app was built using streamlit. It is built on a machine learning model created using sci-fi learn RandomForest classifier. The app code was written in python.
+#### The app was built using streamlit. It is built on a machine learning model created using sci-kit learn RandomForest classifier. The app code was written in python.
 
 ### LINKS
 
